@@ -1,2 +1,1 @@
-# super-octo-garbanzo
-GARBANZO
+# GARBANZO
